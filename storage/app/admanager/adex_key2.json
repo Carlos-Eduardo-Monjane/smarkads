@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-monetize",
+  "private_key_id": "c8f69b8a8a233b6b2fe76670956dcc0a58fe7603",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZKfYRVyjUzruk\njdD4xGJnuifQ+tNKWX/MXozL/rV0utQb/X1xUa6FeTmRB5czqSk2jwmPd5t5P6R2\nE6C78Ef/A+G7R4tZbp+iIGhCUL3Fj2I3ElEVtObns0ZZxZ8773gayqy+l4SGZD6P\n4q0wBA1wHkLos309BlXt4U4GU9w0J3fqm7zmaGGXvCNBnbgZ0GoRM27S+mpf0MRT\n+SJY5r6q9vfWcRcKvJZ4r48BXgfKdtr3i1A9X1R70ZWJAIKp/d1TsrCRtHJlZbM2\nAguI3S/a1Txa8Y1STtnx6AER+u9ppt5UVJwvPVbMOvpfbsB5/MHhrBz1N5bjERWx\nD05c+Dd1AgMBAAECggEAF+OzU5YEgmCZqNEHB47HCoUigy1MmBW/ZtKR55EGEijJ\nU6jvp0smiT1cNVWh7wdxZrSWhydPvadgJrMjD/mvWeDp8Km+rSBrxDCPd5gdQEH1\nOnyz2dD0Q9Hnb9G7IiNGUaAxH6hYZlZZwYdcqPcRKV/S2XmBUfjD9C7AYBbSlxP6\nj0JPYIam4BeHI+L/LTm57f0+5Luwo9fTJxzmxoqb4e/0FhoYr1ciP4xRgvvunygS\nU1058Dk1LYpaPJxd6w2WnJ7FJIgnKbozAFTOdp1sjZT65QozPkR3WAyl2HcIiap/\nKtHPrweNqmorywSGX3ir2VMKk1XknJTpErB5sPLdswKBgQDsRa7KTLqI8sQQavnL\nOO1q6pmFcCfsDg6ulF1J9Ns4+Ezt0uVEv1kvwplvDlc5YyFwZh3H4VkpH9lC1mjN\nGe2cbzP2mmVQSt9RjY5mFn5DAQHb3JigKLW+Y5nQjMfuQKgOaFGvAZub7hxhlwKS\nxyvKvN6s7cCYfa0Fr5ooMUQQ9wKBgQDrS9a/+IEJrFu4dD2ocf8Yp/iQdInCI8sa\ntEMGMvVU/v75n+b62QDhEVvzVvM4LlFMQ4CN+LyQNoHbLTfexgBAPvmzlN5VOP8M\nuFlFRjO0hB/PbAoNMUc9BbQoELMRCw9vqhKRZNbhKjhwlJGOKHR9Ry3GumBk8jMp\nWvksuYqL8wKBgG701n3ohJ01rL+tDTvTsyNHousYXZcsjtaLlDfcBmt9p9rz9HlR\nhxe3woh16p5noFeBjTDF8jIu47/QowzWxVB2pKeFoFiRoMhSuvHUVF0xBudydDaa\nh6cubRiUVHvd305MzTdrgOE8dBWcbjfx0u31vnjlelHiizOlYLbJVBbHAoGBAIG9\n8q8t7rEPyg9+gRUlrpzA2g2FRQS4yeByr1Z2uNJiPOQWKL3+9D4mXUZjln9PAuMD\ngZpHImp+s8HQQDNliHPkhblhB+uEHxa7e/X3zMDn7cZo823s0zQxtfI1qxdluuA+\nrjhfmyDTMAXb1hrF8d22ZuZilI51AoL2N9lSgbPDAoGBAK9/0Xhy9NfqBJOTS8N6\nBSnmaUeYueM6q4Yyco+WuVDsYfgsxCN+1FHm1EvegEY1iSiWX+YjDlplpPMdhMX4\nOmLY6qJKBQr8VhjCtLYBj1x80zlYdhu6fxxULvFtJb748nFZ2CN+fq8WVjseRQ34\np9ph4fmNMQN3R+5v62MUQnSC\n-----END PRIVATE KEY-----\n",
+  "client_email": "painel@my-monetize.iam.gserviceaccount.com",
+  "client_id": "105963835943322472265",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/painel%40my-monetize.iam.gserviceaccount.com"
+}

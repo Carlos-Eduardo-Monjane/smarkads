@@ -1,0 +1,17 @@
+{
+    	"name" : "BeetAds - Network",
+    	"slug" : "BeetAds",
+    	"download_url" : "http://beetads.com",
+    	"version" : "1.41",
+    	"requires" : "3.0",
+    	"tested" : "4.8.1",
+    	"last_updated" : "2019-07-27 00:00:00",
+	"upgrade_notice" : "Plugin update is available.",
+	"author" : "BeetAds",
+	"author_homepage" : "http://beetads.com",
+	"sections" : {
+		"description" : "Melhorias de performance",
+		"installation" : "Faça o upload do plugin para o seu site.",
+		"changelog" : "<h4>1.1 –  Juny 27, 2019</h4><ul><li>Correção de Bugs.</li><li>Release date.</li></ul>"
+	}
+}

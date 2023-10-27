@@ -1,0 +1,424 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.red{background-color: red;}
+.blue{background-color: blue;}
+.green{background-color: green;}
+.marginTop{margin-top: 100px;}
+.zeroMargZeroPadded{padding: 0 !important;margin: 0 !important;}
+.margBottom30{margin-bottom: 30px;}
+
+
+.title-default{
+    font-size: 2em;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 800;
+    color: #fff;
+    padding-left: 20px;
+}
+
+.title-sm{
+    font-size: 1.2em;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+    color: #fff;
+    margin: 2px;
+}
+
+.sub-title-sm{
+    font-size: 0.9em;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
+    color: #777;
+    margin-bottom: 20px;
+}
+
+.viewsMonth{
+    background-color: #36363d;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+
+.buh-content{
+    /* background-color: #202024; */
+    border-radius: 30px;
+    padding: 15px;
+    /* box-shadow: 0px 0px 20px rgba(0,0,0,0.7); */
+}
+
+.welcomeHomeUserDashContainer{
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.welcomeHomeUserDash{
+    background-image:url('https://media4.giphy.com/media/dAWZiSMbMvObDWP3aA/giphy.gif');
+    background-repeat: no-repeat;
+    height: 120px !important;
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    border-radius: 15px;
+    position: relative;
+    margin-top: 20px;
+}
+
+.welcomeHomeUserDashTexts{
+    height: 120px !important;
+}
+
+.welcomeHomeUserDashTexts h5{
+    font-size: 1.7em;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+.welcomeHomeUserDashTexts p{
+    font-size: 1.2em;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+
+.welcomeHomeUserDashSvg img{
+    width: 180px;
+    position: absolute;
+    top: -50px;
+}
+
+.inline-buh{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px !important;
+}
+
+.count2 {
+    height: 35px;
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.count2 > span{
+    font-size: 2.1em;
+    font-weight: 200;
+    text-align: center;
+}
+
+.aside-info-right{
+    display: flex;
+    justify-content: space-between;
+    background-color: #36363d;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.asideRight{
+    border-radius: 15px;
+    padding-left: 10px;
+}
+
+.buh-centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    font-size: 1.5em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.user-info-one{
+    display: flex;
+    flex-direction: column;
+    flex: 4;
+}
+
+.user-info-one h5{
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    font-size: 1.4em;
+    margin: 10px 0 3px;
+}
+
+.asideRightPhoto{
+    display: flex;
+    flex-direction: column;
+}
+
+.photoUserAsideRight{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.basePhotoUser{
+    height: auto;
+    border-radius: 100px;
+    padding: 5px;
+    border: 5px solid #ec293c;
+}
+
+.photoUserAsideRight img{
+    width: 100px;
+    height: auto;
+    border-radius: 100px;
+}
+
+.nameUserAsideRight h5{
+    font-weight: bold;
+    font-size: 1.6em;
+    text-align: center;
+    margin: 0 0 3px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.nameUserAsideRight p{
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+}
+
+.buttonUserAsideRight{
+    margin-bottom: 20px;
+}
+
+.buttonUserAsideRight button{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    background-color:  #36363d;
+    outline: none;
+    border-radius: 10px;
+    border: none;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.buttonUserAsideRight button:hover{
+    transition: 0.5s all;
+    background-color:  #ec293c;
+}
+
+.buttonUserAsideRight button span{
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.buttonAreaSignOut {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.buttonAreaSignOut img{
+    width: 20px;
+    height: 20px;
+}
+
+.buttonAreaSignOut a {
+    color: #fff;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.newNavigator{
+    background-color: red;
+}
+
+.brandLogoNavigator{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.brandLogoNavigator img{
+    width: 65px;
+    height: auto;
+}
+
+.itemsNavigator-buh{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
+
+.item-navigator-buh{
+    display: flex;
+    flex-direction: column;
+    width: 99%;
+    height: 88px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 1em;
+    color: #fff;
+    cursor: pointer;
+    background-color: #202024;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px transparent;
+}
+
+.item-navigator-buh:hover{
+    background: rgb(215,104,87);
+background: radial-gradient(circle, rgba(215,104,87,1) 24%, rgba(215,104,87,1) 26%, rgba(154,39,108,1) 100%);
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.7);
+    transition: 0.5s ease-in-out;
+    color: #fff;
+}
+
+.item-navigator-buh:hover i{
+    color: #fff;
+}
+
+.item-navigator-buh i{
+    font-size: 2.2em;
+    margin-bottom: 8px;
+    color: #fff;
+}
+
+.stackNav1{
+    position: relative;
+    margin-left: -500px;
+}
+
+.stackNav2{
+    position: relative;
+    margin-left: -400px;
+}
+
+.stackNav3{
+    position: relative;
+    margin-left: -300px;
+}
+
+.stackNav4{
+    position: relative;
+    margin-left: -200px;
+}
+
+.stackNav5{
+    position: relative;
+    margin-left: -100px;
+}
+
+.hideDropNavDown{
+    display: none;
+}
+
+.hideDropNavDown2{
+    display: none;
+}
+
+.dropNavDown{
+    position: absolute;
+    top: 0;
+    left: 100px;
+    width: 300px;
+    height: auto;
+    background-color: #fff;
+    box-shadow: 0px 0px 50px rgba(0,0,0,0.3);
+    z-index: 1000;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+
+.dropNavDown h6{
+    color: #202024;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.dropNavDown h6 > i{
+    color: #202024;
+    font-size: 1em;
+}
+
+.dropNavDown ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    padding-left: 20px;
+}
+
+.dropNavDown > ul > li{
+    margin-bottom: 5px;
+}
+
+.dropNavDown > ul > li > a{
+    color: #666;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    font-size: 1em !important;
+}
+
+.dropNavDown > ul > li > a:hover{
+    color: #da2727;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    font-size: 1em !important;
+}
+
+.dropNavDown > ul > li > a > i{
+    color: #666;
+    font-size: 1em;
+}
+
+@media screen and (max-width: 1070px){
+    .welcomeHomeUserDashTexts{
+        display: none !important;
+    }
+
+    #asideRightOff{
+        display: none !important;
+    }
+
+    #newNavigatorOff{
+        display: none !important;
+    }
+}
+
+.xxbbxx{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.customAlert{
+    width: 100%;
+    height: auto;
+    background-color: #36363d;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.9);
+}
+
+.customAlert p{
+    line-height: 1.9em;
+}
+
+#main{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.app-container{
+    padding: 30px;
+}

@@ -1,0 +1,936 @@
+///////////////////HEADER////////////////////////////////
+            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+            <script>
+                    var googletag = window.googletag || {cmd: []};
+                    googletag.cmd.push(function() {      
+                      googletag.pubads().setTargeting('id_post_wp', ['<?php echo get_the_ID() ?>']);
+                    });
+            </script>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe033 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_content1_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe033 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe033 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe033 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe054 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_content2_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe054 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe054 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe054 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe060 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_content3_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe060 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe060 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe060 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe069 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_content4_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe069 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe069 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe069 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe071 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_content5_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe071 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe071 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe071 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe078 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_content6_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe078 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe078 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe078 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe080 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_content1_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe080 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe080 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe080 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe089 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_content2_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe089 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe089 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe089 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe090 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_content3_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe090 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe090 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe090 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe097 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_content4_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe097 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe097 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe097 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe09f = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_content5_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe09f ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe09f ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe09f ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0a5 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_content6_Posts_20201016",[[250, 250],[300, 250],[336, 280]], "<?php echo $ad_5fb7306cbe0a5 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0a5 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0a5 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0ac = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_top_header_desktop_Posts_20201016",[[728, 90]], "<?php echo $ad_5fb7306cbe0ac ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0ac ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0ac ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0b3 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_sidebar_Posts_20201016",[[300, 600]], "<?php echo $ad_5fb7306cbe0b3 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0b3 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0b3 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0bb = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_top_mobile_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe0bb ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0bb ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0bb ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0c2 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_fixed_desktop_skyscrapper1_Posts_20201016",[[120, 600]], "<?php echo $ad_5fb7306cbe0c2 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0c2 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0c2 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0c9 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_fixed_desktop_skyscrapper2_Posts_20201016",[[120, 600]], "<?php echo $ad_5fb7306cbe0c9 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0c9 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0c9 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0d0 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_post_fixed_web1_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe0d0 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0d0 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0d0 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0d7 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_post_fixed_web2_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe0d7 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0d7 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0d7 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0dd = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_post_fixed_web3_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe0dd ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0dd ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0dd ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0f6 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_post_fixed_web4_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe0f6 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0f6 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0f6 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe0fd = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_post_fixed_web5_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe0fd ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe0fd ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe0fd ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe104 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_WEB_post_fixed_web6_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe104 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe104 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe104 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe10d = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_post_fixed_mobile1_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe10d ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe10d ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe10d ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe114 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_post_fixed_mobile2_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe114 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe114 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe114 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe11b = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_post_fixed_mobile3_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe11b ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe11b ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe11b ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe124 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_post_fixed_mobile4_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe124 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe124 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe124 ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe12b = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_post_fixed_mobile5_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe12b ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe12b ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe12b ?>");});
+          </script>
+        </div>
+        </center>
+
+///////////////////////////////////////////////////////////////
+
+
+        <?php $ad_5fb7306cbe132 = uniqid();  ?>
+        <script>
+        googletag.cmd.push(function() {
+          var REFRESH_KEY = "refresh";
+          var REFRESH_VALUE = "true";
+          googletag.defineSlot("/22013536576/arnolds.com.br/Arnolds_MOBILE_post_fixed_mobile6_Posts_20201016",[[320, 50],[320, 100],[300, 50]], "<?php echo $ad_5fb7306cbe132 ?>").
+          setTargeting(REFRESH_KEY, REFRESH_VALUE).
+          addService(googletag.pubads());
+          var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+          googletag.pubads().addEventListener("impressionViewable", function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+              setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+              }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+          });
+          googletag.enableServices();
+        });
+        </script>
+        <center>
+        <div id="<?php echo $ad_5fb7306cbe132 ?>">
+          <script>
+            googletag.cmd.push(function() {googletag.display("<?php echo $ad_5fb7306cbe132 ?>");});
+          </script>
+        </div>
+        </center>
